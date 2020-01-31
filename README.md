@@ -23,6 +23,7 @@
 
 ## Issues
 - [x] Ratings range from 1.0 to 5.0
+- [x] Can one user give multiple ratings for one business -> Yes
 - [ ] How to implement spark cluster
 - [ ] load inbalance
 - [ ] RAM usage: Yelp: 0.73M reviews, 25K users, 25K items, 128 latent features, .9989 sparsity
