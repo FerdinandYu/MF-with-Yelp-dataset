@@ -29,5 +29,5 @@
 - [ ] RAM usage: Yelp: 0.73M reviews, 25K users, 25K items, 128 latent features, .9989 sparsity
                  Amzn: 5M reviews, 117K users, 75K items, 128 latent features, .9994 sparsity
 - [x] Parameter values: ```math
-                        $\lambda = 0.01$, $K=128$, $W = 1_{K \times K}$, $c_0=512, \alpha=0.4$
+                        $$\lambda = 0.01$, $K=128$, $W = 1_{K \times K}$, $c_0=512, \alpha=0.4$$
                         ```
