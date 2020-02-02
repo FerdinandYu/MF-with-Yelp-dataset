@@ -28,5 +28,4 @@
 - [ ] load inbalance
 - [ ] RAM usage: Yelp: 0.73M reviews, 25K users, 25K items, 128 latent features, .9989 sparsity
                  Amzn: 5M reviews, 117K users, 75K items, 128 latent features, .9994 sparsity
-- [x] Parameter values: &lambda;=0.01 $\lambda = 0.01$, $K=128$, $W = 1_{K \times K}$, $c_0=512, \alpha=0.4$
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+- [x] Parameter values: &lambda;=0.01, K=128, W=1<sub>K&times;K</sub>, c<sub>0</sub>=512, &alpha;=0.4
