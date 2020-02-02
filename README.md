@@ -3,10 +3,10 @@
 # Todo breakdown:
 
 ## Coding 
-- [ ] Choose one data set: Amazon/Yelp
-- [ ] Json parser: Json (in HDFS/RDD) -> filter irrelevant entries out -> Spark dataframe
+- [x] Choose one data set: Amazon/Yelp
+- [x] Json parser: Json (in HDFS/RDD) -> filter irrelevant entries out -> Spark dataframe
       Entries to keep: ReviewID, UserID, ItemID, Timestamp, Rating
-- [ ] Sparse matrix representation: Spark dataframe -> Sparse matrix R
+- [x] Sparse matrix representation: Spark dataframe -> Sparse matrix R
 - [ ] Implementation of eALS
 - [ ] Pilot experiments - scalability
 - [ ] Full scale experiments - performance indicator (scalability, cache hit, time-consumption, RMSE)
